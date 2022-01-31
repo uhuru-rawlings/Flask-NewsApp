@@ -3,6 +3,9 @@
     margin-right: 50px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+.description{
+    font-size: 19px;
+}
 h3{
     color: blue;
     font-weight: normal;

@@ -12,6 +12,7 @@ h3{
     font-size: 23px;
 }
 .navbar{
+    margin: -8px;
     padding: 10px;
     background-color: darkslategrey;
     border: none;
